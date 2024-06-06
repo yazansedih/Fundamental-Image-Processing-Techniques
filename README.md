@@ -1,1 +1,1 @@
-# Fundamental-Image-Processing-Techniques
+# Computer Vision Bootcamp - Gaza Sky Geeks
